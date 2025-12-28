@@ -6,6 +6,9 @@
       .titulo-principal__numero
         span 3
       h1 Tema 3
+    
+    .bg-full-width.bg-color-12
+      .px-4.px-md-5
 
 </template>
 
