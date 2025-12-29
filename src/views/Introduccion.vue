@@ -16,7 +16,7 @@
         p(data-aos="fade-left") La tenencia responsable de animales de compañía es un compromiso ético, legal y social que implica mucho más que brindar alimento y refugio. Significa garantizar el bienestar integral de las mascotas, entendidas como seres sintientes, capaces de experimentar emociones y dolor. Este enfoque promueve una relación respetuosa y consciente entre humanos y animales.
         .bg-color-7(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/intro/2.svg', alt='')
             .col-lg
@@ -26,7 +26,7 @@
     .tarjeta.bg-color-10.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/intro/3.png", style="max-width: 90px").mx-auto
           .col-lg.text-white
             p.mb-0 El presente documento desarrolla los aspectos fundamentales de la tenencia responsable, la salud animal y el manejo humanitario. Además, destaca la importancia de la medicina preventiva, el control de zoonosis, las obligaciones legales del tutor y la necesidad de garantizar una vida digna para todas las especies domésticas, tanto convencionales como no convencionales.

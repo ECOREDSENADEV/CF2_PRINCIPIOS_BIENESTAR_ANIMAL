@@ -55,7 +55,7 @@
                 .tarjeta.bg-color-8
                   .px-4.px-md-5.py-4
                     .row.align-items-center
-                      .col-lg-auto
+                      .col-lg-auto.mb-3.mb-lg-0
                         img(src="@/assets/curso/tema1/7-1.svg", style="max-width: 90px").mx-auto
                       .col-lg
                         p.mb-0 Su correcta implementación promueve la convivencia armónica entre personas y animales, fortalece la salud pública y contribuye a una cultura de respeto y protección animal.
@@ -193,7 +193,7 @@
     
         .bg-color-7.tarjeta.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/24.svg", style="max-width: 170px").mx-auto
             .col-lg
               ul.lista-ul--color.mb-0
@@ -280,7 +280,7 @@
     
         .bg-color-2.tarjeta.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/26.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Su finalidad principal es garantizar que cada animal esté asociado a un responsable legal, cuente con un historial sanitario verificable y pueda ser localizado oportunamente en casos de pérdida, abandono, emergencias sanitarias, incidentes de convivencia o actuaciones de autoridad.
@@ -331,7 +331,7 @@
       .col-lg-10
         .bg-color-9.tarjeta.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema1/30.svg', alt='')
             .col-lg

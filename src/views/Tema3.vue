@@ -18,7 +18,7 @@
         
             .bg-color-11.tarjeta.p-4(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema3/2.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   p.mb-0 Este manejo se fundamenta en el reconocimiento de los animales como seres sintientes, capaces de experimentar dolor físico, sufrimiento emocional, miedo, estrés y angustia, lo que obliga a que cualquier forma de manejo, tratamiento, confinamiento o intervención clínica se realice bajo el principio de mínimo sufrimiento y máximo bienestar posible.
@@ -30,7 +30,7 @@
           .col-lg-9
             p(data-aos="fade-left") El manejo humanitario no se limita a evitar actos de maltrato evidentes, sino que incluye la prevención del sufrimiento silencioso, el abandono sanitario, la negligencia por desconocimiento, la prolongación innecesaria del dolor y las prácticas que, aunque socialmente normalizadas, comprometen la calidad de vida del animal.
             .row.align-items-center.mb-3
-              .col-lg-auto.order-lg-2
+              .col-lg-auto.mb-3.mb-lg-0.order-lg-2
                 img(src="@/assets/curso/tema3/4.svg", style="max-width: 295px").mx-auto
               .col-lg.order-lg-1
                 .bg-color-13.tarjeta.p-4(data-aos="fade-left")
@@ -49,7 +49,7 @@
           .col-lg-9.order-lg-1
             .bg-color-10.tarjeta.p-4(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema3/6.svg", style="max-width: 90px").mx-auto
                 .col-lg.text-white
                   p.mb-0 Los cuidados paliativos veterinarios constituyen un enfoque clínico y ético destinado a aliviar el dolor, el malestar y el sufrimiento cuando una enfermedad es incurable, crónica avanzada, degenerativa o terminal, y las posibilidades de recuperación son limitadas o inexistentes. A diferencia del tratamiento curativo, los cuidados paliativos no buscan prolongar la vida a cualquier costo, sino preservar la calidad de vida, respetando la dignidad del animal y promoviendo un final de vida libre de sufrimiento evitable.
@@ -58,7 +58,7 @@
     TabsB.color-acento-contenido.mb-5
       .p-4(titulo="Objetivos de los cuidados paliativos" :icono="require('@/assets/componentes/1.svg')")
         .row.align-items-center.p-4
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7.mb-4.mb-md-0
             h4 Objetivos de los cuidados paliativos
             p Los cuidados paliativos tienen como objetivos fundamentales:
             ul.lista-ul--color.mb-0
@@ -80,12 +80,12 @@
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-3
                 p.mb-0 Evaluación ética y profesional del momento adecuado para considerar la eutanasia humanitaria.
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema3/7.png', alt='Texto que describa la imagen')
       .p-4(titulo="Cuidados paliativos en mascotas convencionales" :icono="require('@/assets/componentes/1.svg')")
         .row.align-items-center.p-4
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7.mb-4.mb-md-0
             h4 Cuidados paliativos en mascotas convencionales
             p En perros y gatos, los cuidados paliativos pueden abarcar múltiples áreas de intervención:
             ul.lista-ul--color.mb-0
@@ -107,12 +107,12 @@
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-3
                 p.mb-0 Control de la incontinencia urinaria o fecal, manteniendo una higiene adecuada para evitar infecciones y dermatitis.
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema3/8.png', alt='Texto que describa la imagen')
       .p-4(titulo="Cuidados paliativos en mascotas no convencionales" :icono="require('@/assets/componentes/1.svg')")
         .row.align-items-center.p-4
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7.mb-4.mb-md-0
             h4 Cuidados paliativos en mascotas no convencionales
             p En aves, roedores, lagomorfos, reptiles y peces, los cuidados paliativos requieren un enfoque aún más cuidadoso, ya que estas especies tienden a ocultar los signos de dolor y enfermedad como mecanismo de defensa.
             p Las medidas incluyen:
@@ -135,7 +135,7 @@
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-3
                 p.mb-0 Observación constante de cambios sutiles en el comportamiento, postura, consumo de alimento y respuesta al entorno.
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema3/9.png', alt='Texto que describa la imagen')
 
@@ -153,7 +153,7 @@
     
         .bg-color-13.tarjeta.p-4(data-aos="fade-left").mb-3
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/11.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Aunque algunas de estas enfermedades no producen dolor intenso en sus etapas iniciales, sí generan pérdida de movilidad, autonomía, capacidades sensoriales o funciones vitales, lo que exige un manejo humanitario continuo y adaptativo.
@@ -240,7 +240,7 @@
       .col-lg-9.order-lg-1
         .bg-color-14.tarjeta.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/14.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Una condición crónica degenerativa es aquella que persiste en el tiempo, progresa gradualmente y no tiene cura, pero puede ser controlada para mantener una calidad de vida aceptable durante meses o incluso años.
@@ -323,7 +323,7 @@
       .col-lg-9
         .bg-color-15.tarjeta.p-4(data-aos="fade-left")
           .row.align-items-center
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/19.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 Cuando la calidad de vida es irremediablemente baja y el sufrimiento no puede ser controlado, la eutanasia humanitaria, realizada por un profesional y bajo protocolos éticos y legales, constituye un acto de compasión y responsabilidad, no de abandono.
@@ -342,7 +342,7 @@
 
         .bg-color-6.tarjeta.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/21.svg', alt='')
             .col-lg
