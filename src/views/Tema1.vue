@@ -220,6 +220,50 @@
       span Comparativo de mecanismos de identificación
     
     .tabla-a.color-acento-contenido.mb-5.tabl
+      table
+        thead
+          tr
+            th.bg-color-9 Mecanismo
+            th.bg-color-9 Descripción y características
+            th.bg-color-9 Ventajas
+            th.bg-color-9 Limitaciones / Uso recomendado
+        tbody
+          tr
+            td Collar con placa identificativa
+            td Placa con nombre del animal y datos del tutor, visible en el collar o arnés.
+            td Identificación inmediata y sin equipos especiales.
+            td Puede perderse o retirarse. Se recomienda como complemento, no como único método.
+          tr.bg-color-sintesis
+            td Tatuaje de identificación
+            td Código alfanumérico tatuado en zonas del cuerpo (oreja, abdomen).
+            td Bajo costo, útil en campañas de esterilización.
+            td Puede desvanecerse; requiere base de datos activa. Útil como refuerzo del microchip.
+          tr
+            td Microchip de identificación (RFID)
+            td Dispositivo subcutáneo con código único, escaneable por lector.
+            td Permanente, difícil de falsificar, reconocido internacionalmente.
+            td Requiere lector y base de datos activa. Es el método más confiable y recomendado.
+          tr.bg-color-sintesis
+            td Dispositivos GPS / telemetría
+            td Tecnología de rastreo en tiempo real mediante aplicaciones móviles.
+            td Prevención de extravíos, útil en zonas rurales.
+            td No es válido legalmente; depende de batería e internet. Solo complemento.
+          tr
+            td Placas digitales con QR
+            td Código QR que enlaza a una ficha digital del animal.
+            td Información extensa y actualizable; fácil acceso con celular.
+            td Requiere conexión y mantenimiento del perfil digital. Recomendado como complemento.
+          tr.bg-color-sintesis
+            td Identificación genética (ADN)
+            td Análisis de muestras biológicas para comparar perfiles genéticos.
+            td Precisión absoluta; útil en disputas legales o casos de maltrato.
+            td Alto costo y complejidad. No viable para identificación masiva o cotidiana.
+          tr
+            td Marcas temporales / etiquetas de campaña
+            td Elementos plásticos o textiles usados en jornadas institucionales.
+            td Útiles en vacunación, esterilización o censos.
+            td Valor solo operativo y transitorio. No constituyen identificación formal.
+
 
     
     separador
